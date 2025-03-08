@@ -12,7 +12,7 @@ I have worked in:
 - **Digital Marketing ([Mediamint](https://mediamint.com/))**: Designed real-time data pipelines with Spark and Kafka. Achieved a 25% boost in personalized marketing campaigns with advanced clustering and segmentation models.
 - **EdTech ([Allround Club](https://allroundclub.com/))**: Implemented hybrid recommendation systems that increased course purchase rates by 25% while enhancing overall student engagement and retention.
 
-Feel free to explore my **projects**, which include **Multi-Modal Video Ad Classifier**, **PaperPal AI** (a PDF insight generator), and **Predictive Modeling** solutions, all showcasing advanced techniques in **NLP**, **Computer Vision**, **Time Series**, and **Generative AI**.
+Feel free to explore my **projects**, which include **Multi-Modal Video Ad Classifier**, **PaperPal AI** (a PDF insight generator), and **Predictive Modeling** solutions, all showcasing advanced techniques in **NLP**, **Computer Vision**, **Time Series**, **Machine Learning** and **Generative AI**.
 
 * 🌍  I'm based in Boston, MA  
 * 🖥️  See my portfolio at [Portfolio](https://mohan-this-side.github.io/)  
