@@ -7,10 +7,10 @@ A Data Science Practitioner
 **Summary**  
 Hello, good to see you here. I'm **Mohan Bhosale**, a passionate **Data Scientist** with over **3+ years of experience** delivering impactful data-driven solutions in **Healthcare**, **Digital Marketing**, and **EdTech** sectors. I am currently doing a **Master's in Data Science (Northeastern University)** (expected May 2026) and I hold a **Bachelor of Technology from VIT**. My expertise spans **Machine Learning**, **Deep Learning**, **MLOps**, **Big Data**, and **Cloud Services**, driving innovations and business growth through advanced predictive modeling and analytics. 
 
-I have worked on:
-- **Healthcare (Cohere Health)**: Built large-scale predictive models using PySpark, TensorFlow, and PyTorch on AWS SageMaker. Optimized healthcare claims processing, positively impacting medical expense management (approx. \$8.5M) and reducing patient wait times.
-- **Digital Marketing (Mediamint)**: Designed real-time data pipelines with Spark and Kafka. Achieved a 25% boost in personalized marketing campaigns with advanced clustering and segmentation models.
-- **EdTech (Allround Club)**: Implemented hybrid recommendation systems that increased course purchase rates by 25% while enhancing overall student engagement and retention.
+I have worked in:
+- **Healthcare ([Cohere Health](https://coherehealth.com/))**: Built large-scale predictive models using PySpark, TensorFlow, and PyTorch on AWS SageMaker. Optimized healthcare claims processing, positively impacting medical expense management (approx. \$8.5M) and reducing patient wait times.
+- **Digital Marketing ([Mediamint](https://mediamint.com/))**: Designed real-time data pipelines with Spark and Kafka. Achieved a 25% boost in personalized marketing campaigns with advanced clustering and segmentation models.
+- **EdTech ([Allround Club](https://allroundclub.com/))**: Implemented hybrid recommendation systems that increased course purchase rates by 25% while enhancing overall student engagement and retention.
 
 Feel free to explore my **projects**, which include **Multi-Modal Video Ad Classifier**, **PaperPal AI** (a PDF insight generator), and **Predictive Modeling** solutions, all showcasing advanced techniques in **NLP**, **Computer Vision**, **Time Series**, and **Generative AI**.
 
