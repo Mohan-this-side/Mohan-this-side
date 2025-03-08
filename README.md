@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohan Bhosale
 =====================================================================================================================================
 
-Data Science Practitioner 
+A Data Science Practitioner 
 --------------
 
 **Summary**  
-Hello, I'm **Mohan Bhosale**, a passionate **Data Scientist** with over **3+ years of experience** delivering impactful data-driven solutions in **Healthcare**, **Digital Marketing**, and **EdTech** sectors. I am currently doing a **Master's in Data Science (Northeastern University)** (expected May 2026) and I hold a **Bachelor of Technology from VIT**. My expertise spans **Machine Learning**, **Deep Learning**, **MLOps**, **Big Data**, and **Cloud Services**, driving innovations and business growth through advanced predictive modeling and analytics. 
+Hello, good to see you here. I'm **Mohan Bhosale**, a passionate **Data Scientist** with over **3+ years of experience** delivering impactful data-driven solutions in **Healthcare**, **Digital Marketing**, and **EdTech** sectors. I am currently doing a **Master's in Data Science (Northeastern University)** (expected May 2026) and I hold a **Bachelor of Technology from VIT**. My expertise spans **Machine Learning**, **Deep Learning**, **MLOps**, **Big Data**, and **Cloud Services**, driving innovations and business growth through advanced predictive modeling and analytics. 
 
 I have worked on:
 - **Healthcare (Cohere Health)**: Built large-scale predictive models using PySpark, TensorFlow, and PyTorch on AWS SageMaker. Optimized healthcare claims processing, positively impacting medical expense management (approx. \$8.5M) and reducing patient wait times.
