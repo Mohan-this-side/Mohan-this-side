@@ -5,7 +5,7 @@ A Data Science Practitioner
 --------------
 
 **Summary**  
-Hello, good to see you here. I'm **Mohan Bhosale**, a passionate **Data Scientist** with over **3+ years of experience** delivering impactful data-driven solutions in **Healthcare**, **Digital Marketing**, and **EdTech** sectors. I am currently doing a **Master's in Data Science (Northeastern University)** (expected May 2026) and I hold a **Bachelor of Technology from VIT**. My expertise spans **Machine Learning**, **Deep Learning**, **MLOps**, **Big Data**, and **Cloud Services**, driving innovations and business growth through advanced predictive modeling and analytics. 
+Hello, good to see you here. I'm **Mohan Bhosale**, a passionate **Data Scientist** with over **3+ years of experience** delivering impactful data-driven solutions in **Healthcare**, **Digital Marketing**, and **EdTech** sectors. I am currently doing a **Master's in Data Science at Northeastern University** (expected graduation: May 2026) and a **Bachelor of Technology from VIT**. My expertise spans **Machine Learning**, **Deep Learning**, **MLOps**, **Big Data**, and **Cloud Services**, driving innovations and business growth through advanced predictive modeling and analytics. 
 
 I have worked in:
 - **Healthcare ([Cohere Health](https://coherehealth.com/))**: Built large-scale predictive models using PySpark, TensorFlow, and PyTorch on AWS SageMaker. Optimized healthcare claims processing, positively impacting medical expense management (approx. \$8.5M) and reducing patient wait times.
