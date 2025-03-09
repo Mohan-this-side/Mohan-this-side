@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohan Bhosale
 =====================================================================================================================================
-
-A Data Science Practitioner <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-this-side&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-this-side" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-this-side&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-this-side" /> </p>
+A Data Science Practitioner
 --------------
 
 **Summary**  
