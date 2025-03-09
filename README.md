@@ -71,8 +71,6 @@ Feel free to explore my **projects**, which include **Multi-Modal Video Ad Class
   <a href="https://github.com/mohan-this-side/Predictive_modeling" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohan-this-side&repo=Predictive_modeling&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
-<div width="100%" align="center">
   <a href="https://github.com/mohan-this-side/PaperPal_AI_chatbot" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohan-this-side&repo=PaperPal_AI_chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
